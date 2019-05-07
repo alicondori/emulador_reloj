@@ -9,5 +9,5 @@
 
 
 
-*programa para emualar un reloj digital, en formato de 24 horas*  
+*programa para emular un reloj digital, en formato de 24 horas*  
 
