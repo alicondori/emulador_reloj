@@ -1,0 +1,9 @@
+c:\users\ali\documents\visual studio 2015\Projects\emulador_reloj\emulador_reloj\bin\Debug\emulador_reloj.exe.config
+C:\Users\ali\Documents\Visual Studio 2015\Projects\emulador_reloj\emulador_reloj\bin\Debug\emulador_reloj.exe
+C:\Users\ali\Documents\Visual Studio 2015\Projects\emulador_reloj\emulador_reloj\bin\Debug\emulador_reloj.pdb
+C:\Users\ali\Documents\Visual Studio 2015\Projects\emulador_reloj\emulador_reloj\obj\Debug\emulador_reloj.csprojResolveAssemblyReference.cache
+C:\Users\ali\Documents\Visual Studio 2015\Projects\emulador_reloj\emulador_reloj\obj\Debug\emulador_reloj.exe
+C:\Users\ali\Documents\Visual Studio 2015\Projects\emulador_reloj\emulador_reloj\obj\Debug\emulador_reloj.pdb
+C:\Users\ali\Documents\git_proyectos\zeta\c_shar\emulador_reloj\emulador_reloj\bin\Debug\emulador_reloj.exe.config
+C:\Users\ali\Documents\git_proyectos\zeta\c_shar\emulador_reloj\emulador_reloj\obj\Debug\emulador_reloj.exe
+C:\Users\ali\Documents\git_proyectos\zeta\c_shar\emulador_reloj\emulador_reloj\obj\Debug\emulador_reloj.pdb
